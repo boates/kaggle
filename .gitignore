@@ -1,0 +1,8 @@
+*~
+.*~
+*.pyc
+*nogit
+*.csv
+*.npy
+*.pkl
+data/*
